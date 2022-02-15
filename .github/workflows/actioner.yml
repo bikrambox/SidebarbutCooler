@@ -13,4 +13,8 @@ jobs:
         username: ec2-user
         password: toor
         port: 22
-        script: whoami
+        script: |
+          whoami
+          ls -al
+          cd Document/
+          ls -al
