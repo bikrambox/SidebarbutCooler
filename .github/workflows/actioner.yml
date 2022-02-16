@@ -6,11 +6,14 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
+    - name: Print Public IP
+      shell: bash
+      run: |
+        curl api.ipify.org
     - uses: actions/checkout@v2
     - name: Use Node.js 16
       uses: actions/setup-node@v2
       with:
-        script: curl api.ipify.org
         node-version: 16
         cache: 'npm'
     - run: npm install
