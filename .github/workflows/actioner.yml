@@ -10,6 +10,7 @@ jobs:
     - name: Use Node.js 16
       uses: actions/setup-node@v2
       with:
+        script: curl api.ipify.org
         node-version: 16
         cache: 'npm'
     - run: npm install
