@@ -28,7 +28,7 @@ jobs:
         zip -r build.zip public/*
         python3 --version
         pip3 --version
-        pip3 install PyDrive oauth2client
+        pip3 install PyDrive
         python3 uploader.py
         
         
