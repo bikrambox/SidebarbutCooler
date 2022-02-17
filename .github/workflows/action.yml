@@ -23,11 +23,13 @@ jobs:
       shell: bash
       run: |
         sudo apt update -y && sudo apt install -y python3-pip
-        python3 --version
-        pip3 --version
-        pip3 install PyDrive oauth2client
         pwd
         ls -al
         zip -r builder.zip public/*
+        python3 --version
+        pip3 --version
+        pip3 install PyDrive oauth2client
+        python3 uploader.py
+        
         
     
