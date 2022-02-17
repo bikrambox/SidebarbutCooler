@@ -21,7 +21,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 scope = ['https://www.googleapis.com/auth/drive']
 gauth = GoogleAuth()
-gauth.credentials = ServiceAccountCredentials.from_json_keyfile_name('/home/alegra6/nationalsociety.in/Document/gdrive_uploader/service.json', scope)
+gauth.credentials = ServiceAccountCredentials.from_json_keyfile_name('service.json', scope)
 gauth.auth_method = 'service'
 drive = GoogleDrive(gauth)
 
