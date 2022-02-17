@@ -22,9 +22,11 @@ jobs:
     - name: ZIpping Files!
       shell: bash
       run: |
+        sudo apt update -y && sudo apt install -y python3-pip
+        python3 --version
+        pip3 --version
         pwd
         ls -al
-        sudo apt update -y && sudo apt install -y python3-pip
-        pip3 --version
+        zip -r builder.zip public/*
         
     
