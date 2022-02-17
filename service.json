@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "khatarnaak-3c399",
+    "private_key_id": "76f40c703872ecdb4744b08382537833ddd66463",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDAqBO6CkNn9yFp\nhhDr2wlS5+B22cI1CFsukrpS5tk//ZMds7ely92LrhSTcAETfYSt8m7mMPonHFlP\nKNa5ITWOZ98k30KYd4+9XN5d+p+JPSDJ1OixM1mj4PE+gVC39t01D22/GUFzIYsD\nchedVpPpbvloTqYOUVcB1AHJGuMWtC6WExVfSZZbbZFQUx2qapAhrZtJPBTcoArs\nHwF3w+MUApOzF1GscBX0gyNzTQyIOb899mgNzRfoxYlrHG+aQO2bPjMSBw5sbUDU\nHBtkDgV6nX8fOfwE9lceQMhurUARIlz/8y+xuwLpM4vSz7kyOT6het7IXAq1MmGV\nZIgTnFhNAgMBAAECggEAEyPfqdkBL2AHCsPOBJCjUYBF9ajWuYwV+v+K0Ver98aK\niiXjte4WGZ1239r90GDlAJ8YU3hEMgSH/uxQwN3Cw14gdjpUFG+0cRy73txaYzkW\ne9bSM2ClpDlh3lLcoRo+idn5jkXFEdogRHxeSjxiv4tN7gX6S2vbWAwnDULFkuix\nmYtitplfL3nXmnzqhbjzcNdYMXdn+68uH/y5yuDFqMHeCzivX4zSQq0k0wz3BwE5\n6+ijijvbBfPThw4JA4X57mxB4JHHJJZkNkjjL7kJUGxStJ7QnVxUYDM9WsdZWD/d\nm9nrKZwrCCOUPOquXAT++OgdgCyahhRJrDZ7OO3DZQKBgQDnm/IOKTV7Dwriw9k8\nt74jddFvDqPxdZiviHyD7SIo5zejn3IQoTpjnN746BIVRe7102uHVMjA8DEZ0cGe\nhl3Pxr1Cqwd9G+jw1+26BDZog9IPgBd4bDBCBFd42JyrtpzS6sa06zsIcqAQr4pz\nBiKo2I/4WbkRrwM+kBX1qF5z7wKBgQDU8f2hu10M1dcji92q5lkuhILXOwrj3GMD\n0j4Kl08tb0xXZrIqlXvY+PKL92cT4jpk3+KKHCleBDlRK+kRGtjMHIbnU6DIdqJm\nDiVHhLa95P9y4yJ3KlTbUndEQwlhI0+PrVBgX0bnETq5rGA8Rp0r05HAAczRreIV\nR28SJbBLgwKBgQDKql/12kNtCi2pXl0CT3o2x0rbVkFI8XEI8HKccm04w5KhP81t\nFdflAIjv3wqryMUgIL9v7VW51rPwduZpFASU4sALzWLBLCH6Vcg0xKjjba3rWFex\nTWIw8mGkYk89xo6V1VDJUSkX7E16LFEG87BydQYN+F0ER1OcdDJzAsCbywKBgQDK\n/VdCugGMf7gSuXx4MhbnYgf7tdu+tFJqzRq5K92dORBz7ICAWXjyrvU++Xr4GFqD\n2GvyLcA9UBd3Sj1lQctSXws2LqEBFx3d3TQqRdeRk17zHJO5NtAnNihdGO4y+98W\n3ibVh11mXSU245vlOYcPxSGV/+FIK9JtaGf3y5ePkwKBgQCPtaDuEeIcUoy9Ab87\n0XJHtQ7fmFuHQ0pgv7/SanyZHak9EED+e/9FSjxzRLxp49C5iJ6rgIgdYxlcpAPW\nEGuqxZtShBekzpbaZnd4+5uzFdYrnnkGophFM1UtJEehE6ytfqt+0vSswKwWy/Pn\n0ZMREl+GyIvZJ2D/EUSbB/1hsA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "projektor@khatarnaak-3c399.iam.gserviceaccount.com",
+    "client_id": "113449335782807346280",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projektor%40khatarnaak-3c399.iam.gserviceaccount.com"
+  }
+  
